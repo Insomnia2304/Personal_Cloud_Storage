@@ -9,4 +9,5 @@ is guaranteed since everything saved within the cloud is encrypted with a Vigen√
 and hard to crack encrypting method. The application also has redundancy implemented to protect
 the stored information at all costs.
 
-# For technical information please read '**raport.pdf**'.
+# For technical information please check '**raport.pdf**'.
+![image](https://github.com/Insomnia2304/Personal_Cloud_Storage/assets/119057832/b4e8cdaa-0916-4590-976f-b166bddb6574)
